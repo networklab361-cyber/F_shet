@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>
+    Cofe_Shope
+</title>
+<sub>C_S</sub>
+<style>
+ body{background-color:powderblue;}
+ h1{color:blue;}
+ p{color:red;}
+ </style
+    </head>
+    <body>
+<tagname style="property:value;">
+
+        <h1 style="color:rgb(94, 100, 4) ;border:2ex solid rgb(49, 28, 28);text-align: center;" > <strong>قهوة الدمشقي</strong></h1>
+<em>is a public</em>
+ <h1 style="border:4cap solid DodgerBlue;"> Tafila Technical University </h1>
+
+
+ <!-- Write your comments here -->
+
+        <h3>This is hedin4</h3>
+        <p style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">tis is the pracet2 </p>
+        <p>Tis is another<hr> pracet </p>
+        <p style="font-size: 150%;">This is Tafila Technical University , <br> which is located at
+         <p style="background-color:powderblue;">This is a 
+paragraph.</p>    
+<a href="https://www.ttu.edu.jo/"target=" _top ">TTU Moodle
+<img src="https://png.pngtree.com/png-clipart/20230803/original/pngtree-grey-jordan-map-maple-detailed-silhouette-vector-picture-image_9437210.png" usemap="Jordan" style="float: right; width: 400px;width: 400px;" > </a>
+ <address>
+ Written by khalid A.<br>
+ Visit us at:<br>
+ ttu.edu.jo<br>
+ Box 172, Tafila<br>
+ Jordan  </address>    
+
+</body>
+</html>
